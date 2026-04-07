@@ -1,0 +1,9 @@
+{
+    "name": "syso",
+    "version": "0.1.0",
+    "title": "Sorry You Spaced Out",
+    "author": "robotemployee",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "If you're reading this, the locale is bugged. My bad"
+  }
